@@ -766,7 +766,7 @@ header{
 
 .pricing__container{
     width: 90%;
-    height: 90vh;
+    height: 110vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -805,7 +805,7 @@ header{
 
 .pricing__list{
     width: 100%;
-    height: 70%;
+    height: 90%;
     display: flex;
     justify-content: space-between;
     gap: 1em;
